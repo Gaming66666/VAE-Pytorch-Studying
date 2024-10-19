@@ -1,0 +1,27 @@
+
+1. 课程所有代码汇总github地址：
+
+https://github.com/JansonYuan/Pytorch-Camp
+
+
+
+2. 课程所有代码汇总及配套数据百度网盘地址：
+
+链接：https://pan.baidu.com/s/11PLl6L3n1vyc97diFSxLPA
+
+提取码：ca7i
+
+
+
+3. 课程所有课件汇总百度网盘地址：
+
+链接：https://pan.baidu.com/s/1qWcdFQDZ8YOur8JktnK-dA 
+
+提取码：grkw 
+
+
+
+4.作业讲解代码地址（参考）：
+
+https://github.com/greebear/pytorch-learning
+
